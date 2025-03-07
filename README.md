@@ -2,8 +2,11 @@ Cybersecurity
 Hey there! 👋 I'm Soufiane, a student specializing in cybersecurity.
 
 About Me
+
 🌍  I'm based in Geneva
+
 👀 I’m interested in Cybersecurity
+
 🌱 I’m currently learning Cybersecurity
 
 ### Skills
